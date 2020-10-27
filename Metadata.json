@@ -1,0 +1,20 @@
+{
+    "Author": "Eamon O Reilly",
+    "ContentSize": 3130,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/refresh-azure-automation-source-control-autosync-webhooks/master/Refresh-SourceControlAutoSyncWebhook.ps1",
+    "DownloadCount": 392,
+    "Id": "Refresh-Azure-Automation-30f22d90",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 400,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-7-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This sample automation runbook resets the auto sync webhook for configured source controls in the automation account. It is designed to be run on a schedule every few months as the webhooks configured by the source control service will expire after 12 months.",
+    "Title": "Refresh Azure Automation Source Control AutoSync webhooks",
+    "UpdatedDate": "2019-7-10T00:00:00",
+    "Url": "https://github.com/azureautomation/refresh-azure-automation-source-control-autosync-webhooks",
+    "UserTags": "Azure Automation, Source control"
+}
